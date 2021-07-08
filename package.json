@@ -20,6 +20,7 @@
     "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12"
   },
+  "homepage" : " https://{your_github_username}.github.io/{app-name}",
   "jest": {
     "moduleNameMapper": {
       "\\.(css|less|sass|scss)$": "<rootDir>/config/CSSStub.js"
